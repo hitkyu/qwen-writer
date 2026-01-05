@@ -1,3 +1,2 @@
-streamlit
+Flask
 huggingface_hub
-watchdog
